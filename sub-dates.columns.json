@@ -1,0 +1,11 @@
+[
+  {
+    "name": "IDSubtitle",
+    "type": "int"
+  },
+  {
+    "name": "SubAddDateUnix",
+    "type": "int",
+    "sql": "unixepoch(SubAddDate)"
+  }
+]
